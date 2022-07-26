@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "LibrairieConversionNote/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LibrairieConversionNote.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibrairieConversionNote.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LibrairieConversionNote/1.0.0": {
+      "type": "project",
+      "path": "../LibrairieConversionNote/LibrairieConversionNote.csproj",
+      "msbuildProject": "../LibrairieConversionNote/LibrairieConversionNote.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "LibrairieConversionNote >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ronald\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sources\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
+      "projectUniqueName": "C:\\sources\\Sdk_laboratoire1_equipe7.git\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
       "projectName": "SDK_Laboratoire1",
-      "projectPath": "C:\\sources\\SDK_Laboratoire1\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
+      "projectPath": "C:\\sources\\Sdk_laboratoire1_equipe7.git\\SDK_Laboratoire1\\SDK_Laboratoire1.csproj",
       "packagesPath": "C:\\Users\\Ronald\\.nuget\\packages\\",
-      "outputPath": "C:\\sources\\SDK_Laboratoire1\\SDK_Laboratoire1\\obj\\",
+      "outputPath": "C:\\sources\\Sdk_laboratoire1_equipe7.git\\SDK_Laboratoire1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ronald\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\sources\\Sdk_laboratoire1_equipe7.git\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
+              "projectPath": "C:\\sources\\Sdk_laboratoire1_equipe7.git\\LibrairieConversionNote\\LibrairieConversionNote.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

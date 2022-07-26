@@ -6,17 +6,18 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "LibrairieConversionNote/1.0.0": {
+      "SDK_Laboratoire1/1.0.0": {
         "dependencies": {
-          "SDK_Laboratoire1": "1.0.0.0"
+          "LibrairieConversionNote": "1.0.0",
+          "LibrairieConversionNote.Reference": "1.0.0.0"
         },
         "runtime": {
-          "LibrairieConversionNote.dll": {}
+          "SDK_Laboratoire1.dll": {}
         }
       },
-      "SDK_Laboratoire1/1.0.0.0": {
+      "LibrairieConversionNote.Reference/1.0.0.0": {
         "runtime": {
-          "SDK_Laboratoire1.dll": {
+          "LibrairieConversionNote.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -25,12 +26,12 @@
     }
   },
   "libraries": {
-    "LibrairieConversionNote/1.0.0": {
+    "SDK_Laboratoire1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "SDK_Laboratoire1/1.0.0.0": {
+    "LibrairieConversionNote.Reference/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

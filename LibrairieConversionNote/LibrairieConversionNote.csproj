@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="SDK_Laboratoire1">
+      <HintPath>..\SDK_Laboratoire1\obj\Debug\net6.0\ref\SDK_Laboratoire1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

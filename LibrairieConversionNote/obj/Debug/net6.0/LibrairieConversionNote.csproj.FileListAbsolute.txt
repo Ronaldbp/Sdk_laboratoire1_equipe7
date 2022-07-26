@@ -10,3 +10,17 @@ C:\sources\LibrairieConversionNote\LibrairieConversionNote\obj\Debug\net6.0\Libr
 C:\sources\LibrairieConversionNote\LibrairieConversionNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
 C:\sources\LibrairieConversionNote\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
 C:\sources\LibrairieConversionNote\LibrairieConversionNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.deps.json
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.dll
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.pdb
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\bin\Debug\net6.0\SDK_Laboratoire1.dll
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.AssemblyReference.cache
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfoInputs.cache
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfo.cs
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.CoreCompileInputs.cache
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.CopyComplete
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.dll
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
+C:\sources\Sdk_laboratoire1_equipe7.git\LibrairieConversionNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll

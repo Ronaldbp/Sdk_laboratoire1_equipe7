@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sources\\LibrairieConversionNote\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {}
+    "C:\\sources\\Sdk_laboratoire1_equipe7.git\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {}
   },
   "projects": {
-    "C:\\sources\\LibrairieConversionNote\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
+    "C:\\sources\\Sdk_laboratoire1_equipe7.git\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sources\\LibrairieConversionNote\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+        "projectUniqueName": "C:\\sources\\Sdk_laboratoire1_equipe7.git\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
         "projectName": "LibrairieConversionNote",
-        "projectPath": "C:\\sources\\LibrairieConversionNote\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+        "projectPath": "C:\\sources\\Sdk_laboratoire1_equipe7.git\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
         "packagesPath": "C:\\Users\\Ronald\\.nuget\\packages\\",
-        "outputPath": "C:\\sources\\LibrairieConversionNote\\LibrairieConversionNote\\obj\\",
+        "outputPath": "C:\\sources\\Sdk_laboratoire1_equipe7.git\\LibrairieConversionNote\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ronald\\AppData\\Roaming\\NuGet\\NuGet.Config",

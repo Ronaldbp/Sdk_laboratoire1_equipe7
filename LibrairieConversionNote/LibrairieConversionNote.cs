@@ -1,17 +1,17 @@
 ﻿namespace LibrairieConversionNote
 {
-    public class ConversionAlphabetiquetoNote
+    public static class ConversionAlphabetiquetoNote
     {
-        public string transform()
+        public static string transform(string note)
         {
-            string note = "";
 
-            switch(note)
+
+            switch (note)
 
             {
-                case "A": 
+                case "A":
                     return "LA";
-                        break;
+                    break;
 
                 case "B":
                     return "SI";
@@ -43,12 +43,12 @@
 
 
 
-                default: 
+                default:
                     return "error";
                     break;
             }
-            
-        
+
+
         }
 
     }
